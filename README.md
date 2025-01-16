@@ -1,5 +1,6 @@
 <img width="740" alt="Screenshot 2025-01-16 at 12 47 21 PM" src="https://github.com/user-attachments/assets/f0932cf1-2981-4cdd-acea-47f9f5a1cc94" />
 
+## About
 ChessBot is an innovative miniature chess prototype designed to combine physical and digital gameplay. As a piece moves on the physical board, the board is updated in real time on the vga monitor. The system utilizes a 2x2 chessboard with embedded buttons to track piece placement and removal, displaying real-time updates on a VGA monitor. The ChessBot is powered by a DE2-115 FPGA board and integrates GPIO inputs to detect piece positions and corresponding VGA output to display those positions on a screen.
 
 <img width="667" alt="Screenshot 2025-01-16 at 12 54 27 PM" src="https://github.com/user-attachments/assets/24cb2299-acdb-4a8c-b48e-24b620276832" />
